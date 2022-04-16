@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Organic Juice Bazar &#8211; Meena Bazar</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 16 Apr 2022 21:33:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Green Apple</title>
+		<link>./../../../product/green-apple/index.html</link>
+					<comments>./../../../product/green-apple/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Apr 2022 21:33:20 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=5156</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/green-apple/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sweet Cherry</title>
+		<link>./../../../product/sweet-cherry/index.html</link>
+					<comments>./../../../product/sweet-cherry/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Apr 2022 21:31:45 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=5154</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/sweet-cherry/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Strawberry Smoothie &#8211; 100ml</title>
+		<link>./../../../product/strawberry-smoothie-100ml/index.html</link>
+					<comments>./../../../product/strawberry-smoothie-100ml/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Apr 2022 21:30:40 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=5152</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/strawberry-smoothie-100ml/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mango Juice &#8211; 250 ml</title>
+		<link>./../../../product/mango-juice-250-ml/index.html</link>
+					<comments>./../../../product/mango-juice-250-ml/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Apr 2022 21:28:17 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=5150</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/mango-juice-250-ml/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Orange Juice &#8211; 250 ml</title>
+		<link>./../../../product/orange-juice-250-ml/index.html</link>
+					<comments>./../../../product/orange-juice-250-ml/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Apr 2022 21:26:56 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=5148</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/orange-juice-250-ml/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
